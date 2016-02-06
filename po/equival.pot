@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: lorenzo.carbonell.cerezo@gmail.com\n"
+"POT-Creation-Date: 2014-03-30 21:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/config.vala:28 src/config.vala:30
+msgid "Equival"
+msgstr ""
+
+#: src/config.vala:29 src/config.vala:31
+msgid "A simple converter for units"
+msgstr ""
+
+#: src/equival.vala:51
+msgid "Exit"
+msgstr ""
+
+#: src/equival.vala:54
+msgid "File"
+msgstr ""
+
+#: src/equival.vala:57
+msgid "Help"
+msgstr ""
+
+#: src/equival.vala:133 src/equival.vala:153
+msgid "Homepage"
+msgstr ""
+
+#: src/equival.vala:136
+msgid "Source code"
+msgstr ""
+
+#: src/equival.vala:139
+msgid "Report a bug"
+msgstr ""
+
+#: src/equival.vala:142
+msgid "Request a new feature"
+msgstr ""
+
+#: src/equival.vala:145
+msgid "Translate this application"
+msgstr ""
+
+#: src/equival.vala:148
+msgid "Get help online"
+msgstr ""
+
+#: src/equival.vala:158
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: src/equival.vala:163
+msgid "Follow me on Google+"
+msgstr ""
+
+#: src/equival.vala:168
+msgid "Follow me on Facebook"
+msgstr ""
+
+#: src/equival.vala:175
+msgid "About"
+msgstr ""

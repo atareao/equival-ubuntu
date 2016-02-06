@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Equival
+Name[en]=Equival
+Name[es]=Equival
+Comment=A simple converter for units
+GenericName=Equival
+GenericName[en]=Equival
+GenericName[es]=Equival
+Version=0.6.0-0extras14.04.0
+Terminal=false
+Icon=equival
+Type=Application
+Exec=/usr/bin/equival
+Categories=GNOME;GTK;Application;Utils;
+Encoding=UTF-8

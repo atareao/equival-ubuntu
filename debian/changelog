@@ -1,0 +1,79 @@
+equival (0.6.0-0extras14.04.2) trusty; urgency=low
+
+  * Migrated to Trusty
+  * Fixed some bugs
+
+ -- Lorenzo Carbonell <atareao@trusty>  Sun, 30 Mar 2014 22:33:51 +0200
+
+equival (0.6.0-0extras13.10.1ubuntu1) saucy; urgency=low
+
+  * New way to select units and magnitude
+
+ -- atareao <atareao@saucy>  Mon, 08 Jul 2013 12:15:43 +0200
+
+equival (0.5.3-0extras13.04.3) raring; urgency=low
+
+  * Ported to Vala
+  * Fixed some bugs
+  
+ -- atareao <atareao@saucy>  Sun, 07 Jul 2013 07:19:15 +0200
+
+equival (0.5.1-0extras13.04.0) raring; urgency=low
+
+  * Simplified gui
+  * Updated to Python3
+  * Sorted lists
+  
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 26 May 2013 22:46:32 +0200
+
+equival (0.5.0.0-1ubuntu1) quantal; urgency=low
+
+  * installation works
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 18 Nov 2012 19:15:05 +0100
+
+equival (0.4.9.1-1ubuntu1) quantal; urgency=low
+
+  * polib
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 18 Nov 2012 13:55:52 +0100
+
+equival (0.4.9.0-1ubuntu1) quantal; urgency=low
+
+  * Ported to Python3
+  * Using json
+  * Using entry completion
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 18 Nov 2012 13:08:16 +0100
+
+equival (0.4.1.1-1ubuntu1) precise; urgency=low
+
+  * Fixed a bug with sources
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 08 Jul 2012 12:27:08 +0200
+
+equival (0.4.1.0-1ubuntu1) precise; urgency=low
+
+  * Improved combobox to easily work with it
+  * Fixed a bug with no preferences exists
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 08 Jul 2012 08:30:41 +0200
+
+equival (0.4.0.2-1ubuntu1) precise; urgency=low
+
+  * Fixed a bug with comun.py
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 17 Jun 2012 19:57:47 +0200
+
+equival (0.4.0.1-1ubuntu1) precise; urgency=low
+
+  * Fixed a bug with launcher
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 17 Jun 2012 08:26:51 +0200
+
+equival (0.4.0.0-1ubuntu1) precise; urgency=low
+
+  [ Lorenzo Carbonell ]
+  * First release equival migrated to PyGObject
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Tue, 25 May 2012 16:25:50 +0200
