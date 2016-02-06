@@ -1,5 +1,0 @@
-/home/atareao/Copy/PROGRAMACION/Python/trusty/equival/build/src/CMakeFiles/equival.dir
-/home/atareao/Copy/PROGRAMACION/Python/trusty/equival/build/po/CMakeFiles/i18n.dir
-/home/atareao/Copy/PROGRAMACION/Python/trusty/equival/build/po/CMakeFiles/pot.dir
-/home/atareao/Copy/PROGRAMACION/Python/trusty/equival/build/po/CMakeFiles/translations.dir
-/home/atareao/Copy/PROGRAMACION/Python/trusty/equival/build/CMakeFiles/uninstall.dir

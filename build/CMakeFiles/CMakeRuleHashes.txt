@@ -1,6 +1,0 @@
-# Hashes of file build rules.
-703f7707e36cc50268659bc20690dcbb CMakeFiles/uninstall
-cecdaec3edbdbcf9f4fe986efc0dafb7 po/CMakeFiles/i18n
-cecdaec3edbdbcf9f4fe986efc0dafb7 po/CMakeFiles/pot
-832a2040e5202d298bc36273df5ed1f3 po/CMakeFiles/translations
-0c7e4c94537d565844b1f1eab86036b1 src/comun.c
